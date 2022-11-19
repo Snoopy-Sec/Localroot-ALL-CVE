@@ -112,6 +112,15 @@
 - [CVE-2019-7304 | snapd < 2.37 (Ubuntu) - 'dirty_sock' Local Privilege Escalation (1)](https://github.com/Snoopy-Sec/Localroot-ALL-CVE/tree/master/2019/CVE-2019-7304)
 - [CVE-2019-13272 | Linux Kernel 4.10 < 5.1.17 - 'PTRACE_TRACEME' pkexec Local Privilege Escalation](https://github.com/Snoopy-Sec/Localroot-ALL-CVE/tree/master/2019/CVE-2019-13272)
 
+##### 2021 //
+- [CVE-2021-22555 | Linux Kernel Netfilter Heap Out-Of-Bounds Write](https://github.com/Snoopy-Sec/Localroot-ALL-CVE/tree/master/2021/CVE-2021-22555)
+- [CVE-2021-3560 | Polkit-exploit](https://github.com/Snoopy-Sec/Localroot-ALL-CVE/tree/master/2021/CVE-2021-3560)
+
+##### 2022 //
+- [CVE-2022-0847 | DirtyPipe-Exploits](https://github.com/Snoopy-Sec/Localroot-ALL-CVE/tree/master/2022/CVE-2022-0847)
+- [CVE-2022-2639 | Linux kernel openvswitch local privilege escalation](https://github.com/Snoopy-Sec/Localroot-ALL-CVE/tree/master/2022/CVE-2022-2639)
+- [CVE-2022-37706 | LPE enligtment Privilege escalation](https://github.com/Snoopy-Sec/Localroot-ALL-CVE/tree/master/2022/CVE-2022-37706)
+
 ##### Default
 This exploit uses the pokemon exploit of the dirtycow vulnerability as a base and automatically generates a new passwd line. The user will be prompted for the new password when the binary is run. The original /etc/passwd file is then backed up to /tmp/paww.bak and overwrites the root account with the generated line. After running the exploit you should be able to login with the newly created user.
 
