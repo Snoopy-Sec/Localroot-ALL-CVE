@@ -122,6 +122,11 @@
 - [CVE-2022-2639 | Linux kernel openvswitch local privilege escalation](https://github.com/Snoopy-Sec/Localroot-ALL-CVE/tree/master/2022/CVE-2022-2639)
 - [CVE-2022-37706 | LPE enlightment Privilege escalation](https://github.com/Snoopy-Sec/Localroot-ALL-CVE/tree/master/2022/CVE-2022-37706)
 - [CVE-2022-0995 | Linux watch_queue Filter Out-Of-Bounds Write](https://github.com/Snoopy-Sec/Localroot-ALL-CVE/tree/master/2022/CVE-2022-0995)
+- [CVE-2022-2586 | Linux kernel nft_object UAF](https://github.com/Snoopy-Sec/Localroot-ALL-CVE/tree/master/2022/CVE-2022-2586)
+- [CVE-2022-2588 | Linux kernel net/sched/cls_route.c Privilege Escalation](https://github.com/Snoopy-Sec/Localroot-ALL-CVE/tree/master/2022/CVE-2022-2588)
+- [CVE-2022-32250 | Linux kernel LPE NFT_STATEFUL_EXPR](https://github.com/Snoopy-Sec/Localroot-ALL-CVE/tree/master/2022/CVE-2022-32250)
+- [CVE-2022-34918 | Linux ubuntu 5.15.0-39-generic LPE](https://github.com/Snoopy-Sec/Localroot-ALL-CVE/tree/master/2022/CVE-2022-34918)
+
 
 ##### Default
 This exploit uses the pokemon exploit of the dirtycow vulnerability as a base and automatically generates a new passwd line. The user will be prompted for the new password when the binary is run. The original /etc/passwd file is then backed up to /tmp/paww.bak and overwrites the root account with the generated line. After running the exploit you should be able to login with the newly created user.
