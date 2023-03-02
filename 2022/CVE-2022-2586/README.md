@@ -1,0 +1,7 @@
+# CVE-2022-2586-LPE
+LPE N-day Exploit for CVE-2022-2586: Linux kernel nft_object UAF
+```
+gcc exploit.c -o exploit -lmnl -lnftnl -no-pie -lpthread
+```
+Author: Alejandro Guerrero <aguerrero@qualys.com>
+Copyright (C) 2022 Qualys, Inc.
