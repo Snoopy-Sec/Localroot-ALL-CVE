@@ -120,13 +120,13 @@
 
 ##### 2022 //
 - [CVE-2022-0847 | DirtyPipe-Exploits](https://github.com/Snoopy-Sec/Localroot-ALL-CVE/tree/master/2022/CVE-2022-0847)
-- [CVE-2022-2639 | Linux kernel openvswitch local privilege escalation](https://github.com/Snoopy-Sec/Localroot-ALL-CVE/tree/master/2022/CVE-2022-2639)
+- [CVE-2022-2639 | Linux Kernel openvswitch local privilege escalation](https://github.com/Snoopy-Sec/Localroot-ALL-CVE/tree/master/2022/CVE-2022-2639)
 - [CVE-2022-37706 | LPE enlightment Privilege escalation](https://github.com/Snoopy-Sec/Localroot-ALL-CVE/tree/master/2022/CVE-2022-37706)
 - [CVE-2022-0995 | Linux watch_queue Filter Out-Of-Bounds Write](https://github.com/Snoopy-Sec/Localroot-ALL-CVE/tree/master/2022/CVE-2022-0995)
-- [CVE-2022-2586 | Linux kernel nft_object UAF](https://github.com/Snoopy-Sec/Localroot-ALL-CVE/tree/master/2022/CVE-2022-2586)
-- [CVE-2022-2588 | Linux kernel net/sched/cls_route.c Privilege Escalation](https://github.com/Snoopy-Sec/Localroot-ALL-CVE/tree/master/2022/CVE-2022-2588)
-- [CVE-2022-32250 | Linux kernel LPE NFT_STATEFUL_EXPR](https://github.com/Snoopy-Sec/Localroot-ALL-CVE/tree/master/2022/CVE-2022-32250)
-- [CVE-2022-34918 | Linux ubuntu 5.15.0-39-generic LPE](https://github.com/Snoopy-Sec/Localroot-ALL-CVE/tree/master/2022/CVE-2022-34918)
+- [CVE-2022-2586 | Linux Kernel nft_object UAF](https://github.com/Snoopy-Sec/Localroot-ALL-CVE/tree/master/2022/CVE-2022-2586)
+- [CVE-2022-2588 | Linux Kernel net/sched/cls_route.c Privilege Escalation](https://github.com/Snoopy-Sec/Localroot-ALL-CVE/tree/master/2022/CVE-2022-2588)
+- [CVE-2022-32250 | Linux Kernel LPE NFT_STATEFUL_EXPR](https://github.com/Snoopy-Sec/Localroot-ALL-CVE/tree/master/2022/CVE-2022-32250)
+- [CVE-2022-34918 | Linux Ubuntu 5.15.0-39-generic LPE](https://github.com/Snoopy-Sec/Localroot-ALL-CVE/tree/master/2022/CVE-2022-34918)
 
 
 ##### Default
