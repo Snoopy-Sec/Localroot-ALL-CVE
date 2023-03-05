@@ -116,6 +116,7 @@
 - [CVE-2021-22555 | Linux Kernel Netfilter Heap Out-Of-Bounds Write](https://github.com/Snoopy-Sec/Localroot-ALL-CVE/tree/master/2021/CVE-2021-22555)
 - [CVE-2021-3560 | Polkit-exploit](https://github.com/Snoopy-Sec/Localroot-ALL-CVE/tree/master/2021/CVE-2021-3560)
 - [CVE-2021-4034 | Pkexec Local Privilege Escalation](https://github.com/Snoopy-Sec/Localroot-ALL-CVE/tree/master/2021/CVE-2021-4034)
+- [CVE-2021-41073 | Linux Privilege Escalation io_uring](https://github.com/Snoopy-Sec/Localroot-ALL-CVE/tree/master/2021/CVE-2021-41073) 
 
 ##### 2022 //
 - [CVE-2022-0847 | DirtyPipe-Exploits](https://github.com/Snoopy-Sec/Localroot-ALL-CVE/tree/master/2022/CVE-2022-0847)
