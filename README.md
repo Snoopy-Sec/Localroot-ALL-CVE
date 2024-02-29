@@ -133,6 +133,8 @@
 - [CVE-2023-0386 | Linux Ubuntu 22.04 Privilege Escalation](https://github.com/Snoopy-Sec/Localroot-ALL-CVE/tree/master/2023/CVE-2023-0386)
 - [CVE-2023-2163 | Linux Privilege Escalation eBPF Verifier](https://github.com/Snoopy-Sec/Localroot-ALL-CVE/tree/master/2023/CVE-2023-2163)
 - [CVE-2023-2598 | io_uring_LPE 6.3-rc1](https://github.com/Snoopy-Sec/Localroot-ALL-CVE/tree/master/2023/CVE-2023-2598)
+- [CVE-2023-2640 | GameOver(Lay) Ubuntu Privilege Escalation](https://github.com/Snoopy-Sec/Localroot-ALL-CVE/tree/master/2023/CVE-2023-2640)
+- [CVE-2023-32629 | GameOver(Lay) Ubuntu Privilege Escalation](https://github.com/Snoopy-Sec/Localroot-ALL-CVE/tree/master/2023/CVE-2023-2640)
 - [CVE-2023-3269 | Linux Privilege Escalation StackRot 6.1 < 6.4](https://github.com/Snoopy-Sec/Localroot-ALL-CVE/tree/master/2023/CVE-2023-3269)
 
 ##### Default
