@@ -137,6 +137,9 @@
 - [CVE-2023-32629 | GameOver(Lay) Ubuntu Privilege Escalation](https://github.com/Snoopy-Sec/Localroot-ALL-CVE/tree/master/2023/CVE-2023-2640)
 - [CVE-2023-3269 | Linux Privilege Escalation StackRot 6.1 < 6.4](https://github.com/Snoopy-Sec/Localroot-ALL-CVE/tree/master/2023/CVE-2023-3269)
 
+##### 2024 //
+- [CVE-2024-1086 | Universal Local Privilege Escalation Linux Kernels between v5.14 & v6.6](https://github.com/Snoopy-Sec/Localroot-ALL-CVE/tree/master/2024/CVE-2024-1086)
+
 ##### Default
 This exploit uses the pokemon exploit of the dirtycow vulnerability as a base and automatically generates a new passwd line. The user will be prompted for the new password when the binary is run. The original /etc/passwd file is then backed up to /tmp/paww.bak and overwrites the root account with the generated line. After running the exploit you should be able to login with the newly created user.
 
